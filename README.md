@@ -12,15 +12,6 @@ Hi, I'm Arjun Ajikumar 👋<br><br>Data enthusiast working on analytics and docu
 ![](https://streak-stats.demolab.com/?user=arjunajikumar-svg&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=arjunajikumar-svg&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=arjunajikumar-svg&theme=merko&no-frame=false&no-bg=true&margin-w=4)
-
-## 🏆 GitHub Trophies
-
-![Githubactivity graph](https://github-readme-activity-graph.vercel.app/graph?username=arjunajikumar-svg&theme=github-compact)
-
-![GithubTrophy](https://github-profile-trophy.vercel.app/?username=arjunajikumar-svg&theme=discord)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
