@@ -1,3 +1,4 @@
+![Header Banner](./banner.svg)
 ## 💫 About Me:
 Hi, I'm Arjun Ajikumar 👋<br><br>Data enthusiast working on analytics and documentation — turning raw data into clean, actionable insights and clear technical documentation.<br><br>- 🔍 Focused on data cleaning, Power BI dashboards, and DAX-driven analysis  <br>- 📝 Building end-to-end documentation for data workflows  <br>- 🥋 When I'm not working with data, you'll find me on the judo mat  <br><br>
 
