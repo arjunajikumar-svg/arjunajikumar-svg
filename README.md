@@ -1,14 +1,6 @@
 ## 💫 About Me:
 Hi, I'm Arjun Ajikumar 👋<br><br>Data enthusiast working on analytics and documentation — turning raw data into clean, actionable insights and clear technical documentation.<br><br>- 🔍 Focused on data cleaning, Power BI dashboards, and DAX-driven analysis  <br>- 📝 Building end-to-end documentation for data workflows  <br>- 🥋 When I'm not working with data, you'll find me on the judo mat  <br><br>
 
-## Featured Projects
-| Project | Tools | Insight |
-|---|---|---|
-| [Melbourne Housing EDA](link) | Python, Pandas | Houses sell at ~85.7% premium over units |
-| [Sales Analytics Dashboard](link) | Power BI, DAX | [your finding] |
-| [E-Commerce Churn Analysis](link) | SQL, CTEs | [your finding] |
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/arjun-ajikumar002/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arjunajikumar002@gmail.com) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://arjun-ajikumar-arjun-ajikumar-data.vercel.app/)
