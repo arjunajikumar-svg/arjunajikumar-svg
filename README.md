@@ -41,10 +41,10 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=arjunajikumar-svg&show_icons=true&hide_border=true&theme=dark&bg_color=0B1624&title_color=8FD0FF&icon_color=1B8FE8&text_color=C9D6E3&border_radius=16&custom_title=GitHub%20at%20a%20glance)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arjunajikumar-svg/arjunajikumar-svg/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arjunajikumar-svg/arjunajikumar-svg/output/github-snake.svg">
-  <img alt="Animated snake eating my public GitHub contributions over the past year." src="https://raw.githubusercontent.com/arjunajikumar-svg/arjunajikumar-svg/output/github-snake.svg" />
+<picture > 
+  <source media = "(prefers-color-scheme: dark)" srcset = "https://raw.githubusercontent.com/arjunajikumar-svg/arjunajikumar-svg/output/github-contribution-grid-snake-dark.svg?palette=github-dark" > 
+  <source media = "(prefers-color-scheme: light)" srcset = "https://raw.githubusercontent.com/arjunajikumar-svg/arjunajikumar-svg/output/github-contribution-grid-snake.svg" > 
+  <img alt = "Animated snake eating my public GitHub contributions over the past year." src = "https://raw.githubusercontent.com/arjunajikumar-svg/arjunajikumar-svg/output/github-contribution-grid-snake.svg" /> 
 </picture>
 
 </div>
