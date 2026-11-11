@@ -29,7 +29,8 @@
 
 <a href="https://github.com/arjunajikumar-svg/sql-employee-management-system"><img src="assets/card-sql.svg" width="100%" alt="SQL Challenges: 70-plus queries across an employee database and a rewards database in MySQL." /></a>
 
-**More on GitHub:** [Excel Dashboard](https://github.com/arjunajikumar-svg/Excel-Dashboard) · [Excel Data Cleaning and Analysis](https://github.com/arjunajikumar-svg/Excel-Data-Cleaning-and-Analysis) · [SQL Employee Rewards System](https://github.com/arjunajikumar-svg/sql-employee-rewards-system) · [NYC Listings Dashboard](https://github.com/arjunajikumar-svg/nyc-listings-dashboard) · [all repositories](https://github.com/arjunajikumar-svg?tab=repositories)
+
+**More on GitHub:** [Lead Data Pipeline](https://github.com/arjunajikumar-svg/Lead-Data-Pipeline-Python-SQL-PowerBI) . [Excel Dashboard](https://github.com/arjunajikumar-svg/Excel-Dashboard) · [Excel Data Cleaning and Analysis](https://github.com/arjunajikumar-svg/Excel-Data-Cleaning-and-Analysis) · [SQL Employee Rewards System](https://github.com/arjunajikumar-svg/sql-employee-rewards-system) · [NYC Listings Dashboard](https://github.com/arjunajikumar-svg/nyc-listings-dashboard) · [all repositories](https://github.com/arjunajikumar-svg?tab=repositories) 
 
 <img src="assets/title-toolkit.svg" width="100%" alt="03 · toolkit. Tools I reach for, and why." />
 
